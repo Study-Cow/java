@@ -1,6 +1,6 @@
 ## [item1] 생성자 대신 정적 팩터리 메서드를 고려하라
 
-[https://mongsil1025.github.io/book/effective-java/item1/](블로그 포스팅 완료)
+[블로그 포스팅 완료](https://mongsil1025.github.io/book/effective-java/item1/)
 
 일반적으로 클래스의 인스턴스를 얻기위해 생성자를 쓴다. 이러한 생성자와 별도로 `정적 팩터리 메서드(static factory method)`를 제공할 수 있다.
 
