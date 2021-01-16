@@ -11,7 +11,7 @@
 |   item3   |         |        | [Singleton](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-14-singleton.md)|[아이템3-생성자 패턴](https://mongsil1025.github.io/book/effective-java/item3/)        |       |
 |   item4   |         |        |         |[아이템4-Not to Instantialize](https://mongsil1025.github.io/book/effective-java/item4/)        |        |
 |   item5   |         |        |         |[아이템5-의존객체주입](https://mongsil1025.github.io/book/effective-java/item5/)        |        |
-|   item6   |         |        |         |        |        |
+|   item6   |         |        |         |[아이템6-객체를 재사용하자](https://mongsil1025.github.io/book/effective-java/item6/)        |        |
 |   item7   |         |        |         |        |        |
 |   item8   |         |        |         |        |        |
 |   item9   |         |        |         |        |        |
