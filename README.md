@@ -12,7 +12,7 @@
 |   item4   |         |        |         |[아이템4-Not to Instantialize](https://mongsil1025.github.io/book/effective-java/item4/)        |        |
 |   item5   |         |        |         |[아이템5-의존객체주입](https://mongsil1025.github.io/book/effective-java/item5/)        |        |
 |   item6   |         |        |         |[아이템6-객체를 재사용하자](https://mongsil1025.github.io/book/effective-java/item6/)        |        |
-|   item7   |         |        |         |        |        |
+|   item7   |         |        |         |[아이템7-메모리누수 방지를 위해 객체참조 해제하자](https://mongsil1025.github.io/book/effective-java/item7/)        |        |
 |   item8   |         |        |         |        |        |
 |   item9   |         |        |         |        |        |
 |   item10   |         |        |         |        |        |
