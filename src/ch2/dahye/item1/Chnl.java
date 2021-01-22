@@ -19,6 +19,7 @@ public enum Chnl {
     static {
         // EnumSet.allOf 활용
         for (Chnl chnl : EnumSet.allOf(Chnl.class)) {
+            // 7장 키캆이 Object이면 GC가 처리하지 못함.(HashMap으로 사용하는 경웅)
             map.put(chnl.getChnlId(), chnl);
         }
     }
