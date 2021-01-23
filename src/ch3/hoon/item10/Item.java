@@ -31,20 +31,20 @@ public class Item {
 
         //1. 반사성
         System.out.println("==반사성 테스트==");
-        System.out.println(item1.equals(item1));
+        System.out.println(item1.equals(item1));    //true
 
         //2. 대칭성
         System.out.println("==대칭성 테스트==");
         Item item2 = new Item("candy");
-        System.out.println(item1.equals(item2));
-        System.out.println(item2.equals(item1));
+        System.out.println(item1.equals(item2));    //true
+        System.out.println(item2.equals(item1));    //true
 
         //3. 추이성
         System.out.println("==추이성 테스트==");
         Item item3 = new Item("candy");
-        System.out.println(item1.equals(item2));
-        System.out.println(item1.equals(item3));
-        System.out.println(item2.equals(item3));
+        System.out.println(item1.equals(item2));    //true
+        System.out.println(item1.equals(item3));    //true
+        System.out.println(item2.equals(item3));    //true
 
     }
 
