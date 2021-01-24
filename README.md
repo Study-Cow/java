@@ -14,7 +14,7 @@
 |   item6   | [avoid creating unnecessary objects](https://insight-bgh.tistory.com/376)        | [Avoid Unnecessary Object](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-22-avoid-unnecessary-object.md) |[아이템6-객체를 재사용하자](https://mongsil1025.github.io/book/effective-java/item6/)        |
 |   item7   | [Object Reference release](https://insight-bgh.tistory.com/377)        | [Eliminate Object Reference](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-22-eliminate-object-reference.md) |[아이템7-메모리누수 방지를 위해 객체참조 해제하자](https://mongsil1025.github.io/book/effective-java/item7/)        |
 |   item8   | [아이템8 finalizer와 cleaner 지양](https://insight-bgh.tistory.com/384)        |        |[아이템8-finalizer와cleaner를 지양하자](https://mongsil1025.github.io/book/effective-java/item8/)        |
-|   item9   |         |        |[아이템9-try-with-resource를 사용하자](https://mongsil1025.github.io/book/effective-java/item9/)        |
+|   item9   | [try-with-resources](https://insight-bgh.tistory.com/386)        |        |[아이템9-try-with-resource를 사용하자](https://mongsil1025.github.io/book/effective-java/item9/)        |
 |   item10   | [아이템10 equals 재정의](https://insight-bgh.tistory.com/385)        |        |         |
 |   item11   |         |        |         |
 |   item12   |         |        |         |
