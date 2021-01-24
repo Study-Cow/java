@@ -16,8 +16,8 @@
 |   item8   | [아이템8 finalizer와 cleaner 지양](https://insight-bgh.tistory.com/384)        |        |[아이템8-finalizer와cleaner를 지양하자](https://mongsil1025.github.io/book/effective-java/item8/)        |
 |   item9   | [try-with-resources](https://insight-bgh.tistory.com/386)        |        |[아이템9-try-with-resource를 사용하자](https://mongsil1025.github.io/book/effective-java/item9/)        |
 |   item10   | [아이템10 equals 재정의](https://insight-bgh.tistory.com/385)        |        |         |
-|   item11   |         |        |         |
-|   item12   |         |        |         |
+|   item11   | [[아이템11] hashCode 재정의](https://insight-bgh.tistory.com/387)        |        |         |
+|   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |        |         |
 |   item13   |         |        |         |
 |   item14   |         |        |         |
 |   item15   |         |        |         |
