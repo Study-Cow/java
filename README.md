@@ -18,7 +18,7 @@
 |   item10   | [아이템10 equals 재정의](https://insight-bgh.tistory.com/385)        |        |         |
 |   item11   | [[아이템11] hashCode 재정의](https://insight-bgh.tistory.com/387)        |        |         |
 |   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |        |         |
-|   item13   |         |        |         |
+|   item13   | [clone 재정의](https://insight-bgh.tistory.com/394)        |        |         |
 |   item14   |         |        |         |
 |   item15   |         |        |         |
 
