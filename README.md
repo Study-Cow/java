@@ -15,10 +15,12 @@
 |   item7   | [Object Reference release](https://insight-bgh.tistory.com/377)        | [Eliminate Object Reference](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-22-eliminate-object-reference.md) |[아이템7-메모리누수 방지를 위해 객체참조 해제하자](https://mongsil1025.github.io/book/effective-java/item7/)        |
 |   item8   | [아이템8 finalizer와 cleaner 지양](https://insight-bgh.tistory.com/384)        | [Avoid finalizer and cleaner](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-25-avoid-finalizer-and-cleaner.md) |[아이템8-finalizer와cleaner를 지양하자](https://mongsil1025.github.io/book/effective-java/item8/)        |
 |   item9   | [try-with-resources](https://insight-bgh.tistory.com/386)        | [try-with-resources](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-25-try-with-resources.md) |[아이템9-try-with-resource를 사용하자](https://mongsil1025.github.io/book/effective-java/item9/)        |
-|   item10   | [아이템10 equals 재정의](https://insight-bgh.tistory.com/385)        |        |         |
-|   item11   | [[아이템11] hashCode 재정의](https://insight-bgh.tistory.com/387)        |        |         |
+|   item10   | [아이템10 equals 재정의](https://insight-bgh.tistory.com/385)        |[Overriding equals](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-01-overriding-equals.md)        |         |
+|   item11   | [[아이템11] hashCode 재정의](https://insight-bgh.tistory.com/387)        |[Overriding hashCode](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-02-overriding-hashCode.md)       |         |
 |   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |        |         |
 |   item13   | [clone 재정의](https://insight-bgh.tistory.com/394)        |        |         |
 |   item14   |         |        |         |
 |   item15   |         |        |         |
 
+
+- item10, item11을 하면서 [AutoValue](https://github.com/dh00023/TIL/blob/master/Java/%EC%8B%AC%ED%99%94/2020-02-02-autoValue.md)를 사용했습니다. 주석처리 혹은 [https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2](https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2)에서 라이브러리 추가 부탁드립니다.
