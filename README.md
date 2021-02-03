@@ -24,3 +24,4 @@
 
 
 - item10, item11을 하면서 [AutoValue](https://github.com/dh00023/TIL/blob/master/Java/%EC%8B%AC%ED%99%94/2020-02-02-autoValue.md)를 사용했습니다. 주석처리 혹은 [https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2](https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2)에서 라이브러리 추가 부탁드립니다.
+- Chapter3 실습하면서 롬복 어노테이션 썼습니다. 롬복 라이브러리 추가 부탁드려요~
