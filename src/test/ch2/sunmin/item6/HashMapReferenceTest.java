@@ -57,23 +57,28 @@ class HashMapReferenceTest {
     @Test
     void test3() throws InterruptedException {
     	
-    	Map<String, String> map = new WeakHashMap<>();
+    	WeakHashMap<String, String> map = new WeakHashMap<>();
     	
     	String s1 = new String("ITEM");
     	String s2 = new String("SITE_ITEM");
     	
+    	
 //    	String s1 = "ITEM";
 //    	String s2 = "SITE_ITEM";
+    	
+//    	Integer i1 = 10;
+//    	Integer i2 = 20;
     	
     	map.put(s1, "123");
     	map.put(s2, "987");
     	
-    	s1 = "";
+    	s1 = null;
     	System.gc();
     	
     	TimeUnit.SECONDS.sleep(5);
     	
-    	assertTrue(map.get("ITEM") == null);
+//    	assertTrue(map.get(10) == null);
+    	map.entrySet().stream().forEach(el -> System.out.println(el));
     	
     }
 
