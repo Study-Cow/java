@@ -16,10 +16,10 @@
 |   item8   | [아이템8 finalizer와 cleaner 지양](https://insight-bgh.tistory.com/384)        | [Avoid finalizer and cleaner](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-25-avoid-finalizer-and-cleaner.md) |[아이템8-finalizer와cleaner를 지양하자](https://mongsil1025.github.io/book/effective-java/item8/)        |
 |   item9   | [try-with-resources](https://insight-bgh.tistory.com/386)        | [try-with-resources](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-01-25-try-with-resources.md) |[아이템9-try-with-resource를 사용하자](https://mongsil1025.github.io/book/effective-java/item9/)        |
 |   item10   | [아이템10 equals 재정의](https://insight-bgh.tistory.com/385)        |[Overriding equals](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-01-overriding-equals.md)        |[아이템10 - equals는 일반 규약을 지켜 재정의하라](https://mongsil1025.github.io/book/effective-java/item10/)         |
-|   item11   | [[아이템11] hashCode 재정의](https://insight-bgh.tistory.com/387)        |[Overriding hashCode](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-02-overriding-hashCode.md) |[아이템11 - equals를 재정의했다면 hashCode도 재정의하라](https://mongsil1025.github.io/book/effective-java/item11/)         |
-|   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |        |[아이템12 - toString을 항상 재정의하라](https://mongsil1025.github.io/book/effective-java/item12/)         |
-|   item13   | [clone 재정의](https://insight-bgh.tistory.com/394)        |        |[아이템13 - clone 재정의는 주의해서 진행하라](https://mongsil1025.github.io/book/effective-java/item13/)         |
-|   item14   |         |        |[아이템14 - Comparable을 구현할지 고려하라](https://mongsil1025.github.io/book/effective-java/item14/)|
+|   item11   | [\[아이템11\] hashCode 재정의](https://insight-bgh.tistory.com/387)        |[Overriding hashCode](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-02-overriding-hashCode.md) |[아이템11 - equals를 재정의했다면 hashCode도 재정의하라](https://mongsil1025.github.io/book/effective-java/item11/)         |
+|   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |  [Overriding toString](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-toString.md)      |[아이템12 - toString을 항상 재정의하라](https://mongsil1025.github.io/book/effective-java/item12/)         |
+|   item13   | [clone 재정의](https://insight-bgh.tistory.com/394)        | [Overriding clone](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-clone-judiciously.md)       |[아이템13 - clone 재정의는 주의해서 진행하라](https://mongsil1025.github.io/book/effective-java/item13/)         |
+|   item14   |         |[Implements Comparable](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-04-comparable.md)        |[아이템14 - Comparable을 구현할지 고려하라](https://mongsil1025.github.io/book/effective-java/item14/)|
 |   item15   |         |        |         |
 
 

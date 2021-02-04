@@ -1,6 +1,8 @@
 package ch3.dahye.item11;
 
-public final class PhoneNumber {
+import java.util.Comparator;
+
+public final class PhoneNumber implements Cloneable{
     private final short areaCode, prefix, lineNum;
     private int hashCode;
 
@@ -47,4 +49,41 @@ public final class PhoneNumber {
         return result;
     }
 
+    /**
+     * XXX-YYY-ZZZZ 형태로 전화호의 문자열을 반환.
+     * XXX : 지역코드
+     * YYY : 프리픽스
+     * ZZZZ : 가입자 번호
+     * @return
+     */
+    @Override
+    public String toString(){
+        return String.format("%03d-%03d-%04d", areaCode, prefix, lineNum);
+    }
+
+    @Override
+    public PhoneNumber clone(){
+        try{
+            return (PhoneNumber) super.clone();
+        }catch (CloneNotSupportedException e){
+            throw new AssertionError();
+        }
+    }
+
+    public int compareTo(PhoneNumber pn){
+        int result = Short.compare(areaCode, pn.areaCode);
+        if(result == 0){
+            result = Short.compare(prefix, pn.prefix);
+            if(result == 0){
+                result = Short.compare(lineNum, pn.lineNum);
+            }
+        }
+        return result;
+    }
+
+    private static final Comparator<PhoneNumber> COMPARATOR = Comparator.comparingInt((PhoneNumber pn) -> pn.areaCode).thenComparingInt(pn -> pn.lineNum).thenComparingInt(pn -> pn.prefix);
+
+    public int compareTo(PhoneNumber pn){
+        return COMPARATOR.compare(this, pn);
+    }
 }
