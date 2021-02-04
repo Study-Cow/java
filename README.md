@@ -19,7 +19,7 @@
 |   item11   | [hashCode 재정의](https://insight-bgh.tistory.com/387)        |[Overriding hashCode](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-02-overriding-hashCode.md) |[아이템11 - equals를 재정의했다면 hashCode도 재정의하라](https://mongsil1025.github.io/book/effective-java/item11/)         |
 |   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |  [Overriding toString](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-toString.md)      |[아이템12 - toString을 항상 재정의하라](https://mongsil1025.github.io/book/effective-java/item12/)         |
 |   item13   | [clone 재정의](https://insight-bgh.tistory.com/394)        | [Overriding clone](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-clone-judiciously.md)       |[아이템13 - clone 재정의는 주의해서 진행하라](https://mongsil1025.github.io/book/effective-java/item13/)         |
-|   item14   |         |[Implements Comparable](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-04-comparable.md)        |[아이템14 - Comparable을 구현할지 고려하라](https://mongsil1025.github.io/book/effective-java/item14/)|
+|   item14   | [Comparable 구현](https://insight-bgh.tistory.com/396)        |[Implements Comparable](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-04-comparable.md)        |[아이템14 - Comparable을 구현할지 고려하라](https://mongsil1025.github.io/book/effective-java/item14/)|
 |   item15   |         |        |         |
 
 
