@@ -20,7 +20,18 @@
 |   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |  [Overriding toString](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-toString.md)      |[아이템12 - toString을 항상 재정의하라](https://mongsil1025.github.io/book/effective-java/item12/)         |
 |   item13   | [clone 재정의](https://insight-bgh.tistory.com/394)        | [Overriding clone](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-clone-judiciously.md)       |[아이템13 - clone 재정의는 주의해서 진행하라](https://mongsil1025.github.io/book/effective-java/item13/)         |
 |   item14   | [Comparable 구현](https://insight-bgh.tistory.com/396)        |[Implements Comparable](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-04-comparable.md)        |[아이템14 - Comparable을 구현할지 고려하라](https://mongsil1025.github.io/book/effective-java/item14/)|
-|   item15   |         |        |         |
+|   item15   |         |  [클래스와 멤버 접근을 최소화 해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-minimize-class-and-memeber.md)      |         |
+|   item16   |         |[Accessor methods](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-use-accessor-method.md)|         |
+|   item17   |         |[불변 클래스](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-minimize-mutability.md)|         |
+|   item18   |         |[Use Composition](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-12-use-composition.md)|         |
+|   item19   |         |[상속을 고려해 설계하고 문서화해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-design-inheirtance.md)|         |
+|   item20   |         |[추상클래스보다 인터페이스를 우선시해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-prefer-interface.md)|         |
+|   item21   |         |[인터페이스는 구현하는 쪽을 생각해 설계해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-design-interface-for-posterity.md)|         |
+|   item22   |         |[인터페이스는 타입을 정의하는 용도로만 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-use-interface-to-define-type.md)|         |
+|   item23   |         |[클래스 계층구조를 활용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-use-class-hirarchies.md)|         |
+|   item24   |         |[중첩 클래스](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-favor-static-memeber.md)|         |
+|   item25   |         |[톱레벨 클래스는 한 파일에 하나만 생성해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-limit-single-top-level-class.md)|         |
+
 
 
 - item10, item11을 하면서 [AutoValue](https://github.com/dh00023/TIL/blob/master/Java/%EC%8B%AC%ED%99%94/2020-02-02-autoValue.md)를 사용했습니다. 주석처리 혹은 [https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2](https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2)에서 라이브러리 추가 부탁드립니다.
