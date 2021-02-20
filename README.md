@@ -20,9 +20,9 @@
 |   item12   | [toString 재정의](https://insight-bgh.tistory.com/388)        |  [Overriding toString](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-toString.md)      |[아이템12 - toString을 항상 재정의하라](https://mongsil1025.github.io/book/effective-java/item12/)         |
 |   item13   | [clone 재정의](https://insight-bgh.tistory.com/394)        | [Overriding clone](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-03-overriding-clone-judiciously.md)       |[아이템13 - clone 재정의는 주의해서 진행하라](https://mongsil1025.github.io/book/effective-java/item13/)         |
 |   item14   | [Comparable 구현](https://insight-bgh.tistory.com/396)        |[Implements Comparable](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-04-comparable.md)        |[아이템14 - Comparable을 구현할지 고려하라](https://mongsil1025.github.io/book/effective-java/item14/)|
-|   item15   |         |  [클래스와 멤버 접근을 최소화 해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-minimize-class-and-memeber.md)      |         |
-|   item16   |         |[Accessor methods](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-use-accessor-method.md)|         |
-|   item17   |         |[불변 클래스](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-minimize-mutability.md)|         |
+|   item15   | [클래스와 멤버 접근 권한 최소화](https://insight-bgh.tistory.com/399)        |  [클래스와 멤버 접근을 최소화 해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-minimize-class-and-memeber.md)      |         |
+|   item16   | [public 클래스와 접근자 메서드](https://insight-bgh.tistory.com/400)        |[Accessor methods](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-use-accessor-method.md)|         |
+|   item17   | [변경 가능성 최소화](https://insight-bgh.tistory.com/401)        |[불변 클래스](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-minimize-mutability.md)|         |
 |   item18   |         |[Use Composition](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-12-use-composition.md)|         |
 |   item19   |         |[상속을 고려해 설계하고 문서화해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-design-inheirtance.md)|         |
 |   item20   |         |[추상클래스보다 인터페이스를 우선시해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-prefer-interface.md)|         |
