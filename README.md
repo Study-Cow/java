@@ -25,7 +25,7 @@
 |   item17   | [변경 가능성 최소화](https://insight-bgh.tistory.com/401)        |[불변 클래스](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-11-minimize-mutability.md)|         |
 |   item18   | [상속보다는 컴포지션을 사용해라](https://insight-bgh.tistory.com/402)        |[Use Composition](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-12-use-composition.md)|         |
 |   item19   | [상속을 고려해 설계하고 문서화하라](https://insight-bgh.tistory.com/404)        |[상속을 고려해 설계하고 문서화해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-design-inheirtance.md)|         |
-|   item20   |         |[추상클래스보다 인터페이스를 우선시해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-prefer-interface.md)|         |
+|   item20   | [추상 클래스보다는 인터페이스를 우선하라](https://insight-bgh.tistory.com/405)        |[추상클래스보다 인터페이스를 우선시해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-prefer-interface.md)|         |
 |   item21   |         |[인터페이스는 구현하는 쪽을 생각해 설계해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-design-interface-for-posterity.md)|         |
 |   item22   |         |[인터페이스는 타입을 정의하는 용도로만 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-13-use-interface-to-define-type.md)|         |
 |   item23   |         |[클래스 계층구조를 활용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-use-class-hirarchies.md)|         |
