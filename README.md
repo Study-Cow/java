@@ -31,7 +31,25 @@
 |   item23   | [태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://insight-bgh.tistory.com/408)        |[클래스 계층구조를 활용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-use-class-hirarchies.md)|[태그 달린 클래스보다는 클래스 계층구조를 활용하라](https://mongsil1025.github.io/book/effective-java/item23/)         |
 |   item24   | [멤버 클래스는 되도록 static으로 만들라](https://insight-bgh.tistory.com/409)        |[중첩 클래스](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-favor-static-memeber.md)|[중첩 클래스](https://mongsil1025.github.io/book/effective-java/item24/)          |
 |   item25   | [톱레밸 클래스는 한 파일에 하나만 담으라](https://insight-bgh.tistory.com/410)        |[톱레벨 클래스는 한 파일에 하나만 생성해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-limit-single-top-level-class.md)|[톱레벨 클래스는 한 파일에 하나만 생성해라](https://mongsil1025.github.io/book/effective-java/item25/)         |
-
+|   item26   | [로 타입은 사용하지 말라](https://insight-bgh.tistory.com/412)   |   |    |
+|   item27   |    |   |    |
+|   item28   |    |   |    |
+|   item29   |    |   |    |
+|   item30   |    |   |    |
+|   item31   |    |   |    |
+|   item32   |    |   |    |
+|   item33   |    |   |    |
+|   item34   |    |   |    |
+|   item35   |    |   |    |
+|   item36   |    |   |    |
+|   item37   |    |   |    |
+|   item38   |    |   |    |
+|   item39   |    |   |    |
+|   item40   |    |   |    |
+|   item41   |    |   |    |
+|   item42   |    |   |    |
+|   item43   |    |   |    |
+|   item44   |    |   |    |
 
 
 - item10, item11을 하면서 [AutoValue](https://github.com/dh00023/TIL/blob/master/Java/%EC%8B%AC%ED%99%94/2020-02-02-autoValue.md)를 사용했습니다. 주석처리 혹은 [https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2](https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2)에서 라이브러리 추가 부탁드립니다.
