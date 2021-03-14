@@ -32,7 +32,7 @@
 |   item24   | [멤버 클래스는 되도록 static으로 만들라](https://insight-bgh.tistory.com/409)        |[중첩 클래스](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-favor-static-memeber.md)|[중첩 클래스](https://mongsil1025.github.io/book/effective-java/item24/)          |
 |   item25   | [톱레밸 클래스는 한 파일에 하나만 담으라](https://insight-bgh.tistory.com/410)        |[톱레벨 클래스는 한 파일에 하나만 생성해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-limit-single-top-level-class.md)|[톱레벨 클래스는 한 파일에 하나만 생성해라](https://mongsil1025.github.io/book/effective-java/item25/)         |
 |   item26   | [로 타입은 사용하지 말라](https://insight-bgh.tistory.com/412)   |   | [로 타입 - Type Unsafety](https://mongsil1025.github.io/book/effective-java/item26/)   |
-|   item27   |    |   |    |
+|   item27   |    |   |[제너릭의 Unchecked Error 제거](https://mongsil1025.github.io/book/effective-java/item27/)    |
 |   item28   |    |   |    |
 |   item29   |    |   |    |
 |   item30   |    |   |    |
