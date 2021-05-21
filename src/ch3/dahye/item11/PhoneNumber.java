@@ -70,16 +70,16 @@ public final class PhoneNumber implements Cloneable{
         }
     }
 
-    public int compareTo(PhoneNumber pn){
-        int result = Short.compare(areaCode, pn.areaCode);
-        if(result == 0){
-            result = Short.compare(prefix, pn.prefix);
-            if(result == 0){
-                result = Short.compare(lineNum, pn.lineNum);
-            }
-        }
-        return result;
-    }
+//    public int compareTo(PhoneNumber pn){
+//        int result = Short.compare(areaCode, pn.areaCode);
+//        if(result == 0){
+//            result = Short.compare(prefix, pn.prefix);
+//            if(result == 0){
+//                result = Short.compare(lineNum, pn.lineNum);
+//            }
+//        }
+//        return result;
+//    }
 
     private static final Comparator<PhoneNumber> COMPARATOR = Comparator.comparingInt((PhoneNumber pn) -> pn.areaCode).thenComparingInt(pn -> pn.lineNum).thenComparingInt(pn -> pn.prefix);
 
