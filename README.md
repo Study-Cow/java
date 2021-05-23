@@ -33,9 +33,9 @@
 |   item25   | [톱레밸 클래스는 한 파일에 하나만 담으라](https://insight-bgh.tistory.com/410)        |[톱레벨 클래스는 한 파일에 하나만 생성해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-02-14-limit-single-top-level-class.md)|[톱레벨 클래스는 한 파일에 하나만 생성해라](https://mongsil1025.github.io/book/effective-java/item25/)         |
 |   item26   | [로 타입은 사용하지 말라](https://insight-bgh.tistory.com/412)   |  [Raw type은 사용하지 마라](Java/effective_java/2021-05-19-generic-dont-use-raw-type.md) | [로 타입 - Type Unsafety](https://mongsil1025.github.io/book/effective-java/item26/)   |
 |   item27   |    | [비검사 경고를 제거해라](Java/effective_java/2021-05-20-remove-unchecked-warning.md) |[제너릭의 Unchecked Error 제거](https://mongsil1025.github.io/book/effective-java/item27/)    |
-|   item28   |    | [배열보다는 리스트를 사용해라](Java/effective_java/2021-05-21-use-list-rather-than-array.md) |    |
-|   item29   |    | [이왕이면 제네릭 타입으로 만들어라](Java/effective_java/2021-05-22-make-generic-type.md)  |    |
-|   item30   |    |   |    |
+|   item28   |    | [배열보다는 리스트를 사용해라](Java/effective_java/2021-05-21-use-list-rather-than-array.md) |[배열보다는 리스트를 사용하라](https://mongsil1025.github.io/book/effective-java/item28/)    |
+|   item29   |    | [이왕이면 제네릭 타입으로 만들어라](Java/effective_java/2021-05-22-make-generic-type.md)  |[이왕이면 제네릭 타입으로 만들어라](https://mongsil1025.github.io/book/effective-java/item29/)    |
+|   item30   |    |   |[이왕이면 제네릭 메서드로 만들어라](https://mongsil1025.github.io/book/effective-java/item30/)    |
 |   item31   |    |   |    |
 |   item32   |    |   |    |
 |   item33   |    |   |    |
