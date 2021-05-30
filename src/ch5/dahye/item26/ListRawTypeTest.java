@@ -19,8 +19,10 @@ public class ListRawTypeTest {
         numElemnetsInCommon(intSet, stringSet);
 
         Collection<?> collection = new ArrayList<>();
+        // parameter로 Generic이 설정되어있어 null만 받을 수 있음.
         collection.add(null);
 //        collection.add("testse");
+
     }
 
     private static void unsafeAdd(List<Object> list, Object o) {

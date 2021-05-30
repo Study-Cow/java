@@ -13,6 +13,7 @@ public class Chooser<T> {
         this.choiceList = new ArrayList<>(choices);
     }
 
+
     public T choose() {
         Random rnd = ThreadLocalRandom.current();
         return choiceList.get(rnd.nextInt(choiceList.size()));
