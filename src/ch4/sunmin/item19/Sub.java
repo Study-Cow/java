@@ -1,6 +1,9 @@
 package ch4.sunmin.item19;
 
 import java.time.Instant;
+import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 
 public final class Sub extends Super{
 	
@@ -17,6 +20,15 @@ public final class Sub extends Super{
 	public static void main(String[] args) {
 		Sub sub = new Sub();
 		sub.overrideMe();
+		
+		Collection<?> collection = new ArrayList<>();
+//		collection.add("test");
+		
+		collection.clear();
+		collection.contains("test");
+		
+//		collection.add(null);
+		
 	}
 
 }

@@ -17,7 +17,12 @@ public class ArrListTest {
 //        List<Object> ol = new ArrayList<Long>();
 //        ol.add("타입이 다름");
 
-//        List<String>[] stringList = new List<String>[1];
+        ArrayList<String> stringList = new ArrayList<String>();
+
+
+        Chooser<?> chooser = new Chooser<>(stringList);
+
+
 
     }
 
