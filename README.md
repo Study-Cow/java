@@ -35,10 +35,10 @@
 |   item27   | [비검사 경고를 제거해라](https://insight-bgh.tistory.com/419)   | [비검사 경고를 제거해라](Java/effective_java/2021-05-20-remove-unchecked-warning.md) |[제너릭의 Unchecked Error 제거](https://mongsil1025.github.io/book/effective-java/item27/)    |
 |   item28   | [배열보다는 리스트를 사용해라](https://insight-bgh.tistory.com/420)   | [배열보다는 리스트를 사용해라](Java/effective_java/2021-05-21-use-list-rather-than-array.md) |    |
 |   item29   | [이왕이면 제네릭 타입으로 만들어라](https://insight-bgh.tistory.com/421)  | [이왕이면 제네릭 타입으로 만들어라](Java/effective_java/2021-05-22-make-generic-type.md)  |    |
-|   item30   |    | [이왕이면 제네릭 메서드로 만들어라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-29-make-generic-method.md)  |    |
-|   item31   |    | [한정적 와일드카드를 사용해 API 유연성을 높여라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-30-use-bounded-wildcards.md)  |    |
-|   item32   |    | [제네릭과 가변인수를 함께 쓸 때는 신중해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-30-careful-when-using-generic-and-varargs.md)  |    |
-|   item33   |    | [타입 안전 이종 컨테이너를 고려해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-31-consider-type-safe-heterogeneous-container.md)  |    |
+|   item30   | [이왕이면 제네릭 메서드로 만들어라](https://insight-bgh.tistory.com/422)   | [이왕이면 제네릭 메서드로 만들어라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-29-make-generic-method.md)  |    |
+|   item31   | [한정적 와일드카드를 사용해 API 유연성을 높여라](https://insight-bgh.tistory.com/423)   | [한정적 와일드카드를 사용해 API 유연성을 높여라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-30-use-bounded-wildcards.md)  |    |
+|   item32   | [제네릭과 가변인수를 함께 쓸 때는 신중해라](https://insight-bgh.tistory.com/424)   | [제네릭과 가변인수를 함께 쓸 때는 신중해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-30-careful-when-using-generic-and-varargs.md)  |    |
+|   item33   | [타입 안전 이종 컨테이너를 고려해라](https://insight-bgh.tistory.com/425)   | [타입 안전 이종 컨테이너를 고려해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-31-consider-type-safe-heterogeneous-container.md)  |    |
 |   item34   |    |   |    |
 |   item35   |    |   |    |
 |   item36   |    |   |    |
