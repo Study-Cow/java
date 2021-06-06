@@ -39,10 +39,10 @@
 |   item31   | [한정적 와일드카드를 사용해 API 유연성을 높여라](https://insight-bgh.tistory.com/423)   | [한정적 와일드카드를 사용해 API 유연성을 높여라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-30-use-bounded-wildcards.md)  |    |
 |   item32   | [제네릭과 가변인수를 함께 쓸 때는 신중해라](https://insight-bgh.tistory.com/424)   | [제네릭과 가변인수를 함께 쓸 때는 신중해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-30-careful-when-using-generic-and-varargs.md)  |    |
 |   item33   | [타입 안전 이종 컨테이너를 고려해라](https://insight-bgh.tistory.com/425)   | [타입 안전 이종 컨테이너를 고려해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-05-31-consider-type-safe-heterogeneous-container.md)  |    |
-|   item34   |    | [ITEM 34: int 상수 대신 열거 타입을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-05-use-enum-type.md)  |    |
-|   item35   |    | [ITEM 35: ordinal 메서드 대신 인스턴스 필드를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-instant-field.md)   |    |
-|   item36   |    | [ITEM 36: 비트 필드 대신 EnumSet을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enumset.md)  |    |
-|   item37   |    | [ITEM 37: ordinal 인덱싱 대신 EnumMap을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enummap.md)  |    |
+|   item34   | [int 상수 대신 열거 타입을 사용하라](https://insight-bgh.tistory.com/426)   | [ITEM 34: int 상수 대신 열거 타입을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-05-use-enum-type.md)  |    |
+|   item35   | [ordinal 메서드 대신 인스턴스 필드를 사용하라](https://insight-bgh.tistory.com/427)   | [ITEM 35: ordinal 메서드 대신 인스턴스 필드를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-instant-field.md)   |    |
+|   item36   | [비트 필드 대신 EnumSet을 사용하라](https://insight-bgh.tistory.com/428)   | [ITEM 36: 비트 필드 대신 EnumSet을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enumset.md)  |    |
+|   item37   | [ordinal 인덱싱 대신 EnumMap을 사용하라](https://insight-bgh.tistory.com/429)   | [ITEM 37: ordinal 인덱싱 대신 EnumMap을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enummap.md)  |    |
 |   item38   |    |   |    |
 |   item39   |    |   |    |
 |   item40   |    |   |    |
