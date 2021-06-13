@@ -43,8 +43,8 @@
 |   item35   | [ordinal 메서드 대신 인스턴스 필드를 사용하라](https://insight-bgh.tistory.com/427)   | [ITEM 35: ordinal 메서드 대신 인스턴스 필드를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-instant-field.md)   |[ordinal 메서드](https://mongsil1025.github.io/book/effective-java/item35/)    |
 |   item36   | [비트 필드 대신 EnumSet을 사용하라](https://insight-bgh.tistory.com/428)   | [ITEM 36: 비트 필드 대신 EnumSet을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enumset.md)  |[비트 필드와 EnumSet](https://mongsil1025.github.io/book/effective-java/item36/)    |
 |   item37   | [ordinal 인덱싱 대신 EnumMap을 사용하라](https://insight-bgh.tistory.com/429)   | [ITEM 37: ordinal 인덱싱 대신 EnumMap을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enummap.md)  |[EnumMap](https://mongsil1025.github.io/book/effective-java/item37/)    |
-|   item38   |    |   |    |
-|   item39   |    |   |    |
+|   item38   |    |   |[인터페이스를 사용해서 EnumType을 확장](https://mongsil1025.github.io/book/effective-java/item38/)    |
+|   item39   |    |   |[애너테이션](https://mongsil1025.github.io/book/effective-java/item39/)    |
 |   item40   |    |   |    |
 |   item41   |    |   |    |
 |   item42   |    |   |    |
