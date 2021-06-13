@@ -43,10 +43,10 @@
 |   item35   | [ordinal 메서드 대신 인스턴스 필드를 사용하라](https://insight-bgh.tistory.com/427)   | [ITEM 35: ordinal 메서드 대신 인스턴스 필드를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-instant-field.md)   |[ordinal 메서드](https://mongsil1025.github.io/book/effective-java/item35/)    |
 |   item36   | [비트 필드 대신 EnumSet을 사용하라](https://insight-bgh.tistory.com/428)   | [ITEM 36: 비트 필드 대신 EnumSet을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enumset.md)  |[비트 필드와 EnumSet](https://mongsil1025.github.io/book/effective-java/item36/)    |
 |   item37   | [ordinal 인덱싱 대신 EnumMap을 사용하라](https://insight-bgh.tistory.com/429)   | [ITEM 37: ordinal 인덱싱 대신 EnumMap을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-use-enummap.md)  |[EnumMap](https://mongsil1025.github.io/book/effective-java/item37/)    |
-|   item38   |    |   |    |
-|   item39   |    |   |    |
-|   item40   |    |   |    |
-|   item41   |    |   |    |
+|   item38   |    | [ITEM 38: 확장할 수 있는 열거타입이 필요하면 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-enum-type-implements-interface.md)  |    |
+|   item39   |    | [ITEM 39: 명명 패턴보다 애너테이션을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-13-use-annotation.md)  |    |
+|   item40   |    | [ITEM 40: @Override 어노테이션을 일관되게 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-consistently-use-override-annotation.md)  |    |
+|   item41   |    | [ITEM 41: 정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-use-marker-interfaces-to-define-types.md)  |    |
 |   item42   |    |   |    |
 |   item43   |    |   |    |
 |   item44   |    |   |    |
