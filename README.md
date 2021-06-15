@@ -47,6 +47,10 @@
 |   item39   | [명명 패턴보다 애너테이션을 사용해라](https://insight-bgh.tistory.com/434)   | [ITEM 39: 명명 패턴보다 애너테이션을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-13-use-annotation.md)  |[애너테이션](https://mongsil1025.github.io/book/effective-java/item39/)    |
 |   item40   | [@Override 어노테이션을 일관되게 사용해라](https://insight-bgh.tistory.com/432)   | [ITEM 40: @Override 어노테이션을 일관되게 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-consistently-use-override-annotation.md)  |    |
 |   item41   | [정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://insight-bgh.tistory.com/433)   | [ITEM 41: 정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-use-marker-interfaces-to-define-types.md)  |    |
+|   item38   | [확장할 수 있는 열거타입이 필요하면 인터페이스를 사용해라](https://insight-bgh.tistory.com/431)   | [ITEM 38: 확장할 수 있는 열거타입이 필요하면 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-06-enum-type-implements-interface.md)  |[인터페이스를 사용해서 EnumType을 확장](https://mongsil1025.github.io/book/effective-java/item38/)    |
+|   item39   | [명명 패턴보다 애너테이션을 사용해라](https://insight-bgh.tistory.com/434)   | [ITEM 39: 명명 패턴보다 애너테이션을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-13-use-annotation.md)  |[애너테이션](https://mongsil1025.github.io/book/effective-java/item39/)    |
+|   item40   | [@Override 어노테이션을 일관되게 사용해라](https://insight-bgh.tistory.com/432)   | [ITEM 40: @Override 어노테이션을 일관되게 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-consistently-use-override-annotation.md)  |[@Override 어노테이션을 일관되게 사용하라](https://mongsil1025.github.io/book/effective-java/item40/)    |
+|   item41   | [정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://insight-bgh.tistory.com/433)   | [ITEM 41: 정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-use-marker-interfaces-to-define-types.md)  |[마커 인터페이스](https://mongsil1025.github.io/book/effective-java/item41/)    |
 |   item42   |    |   |    |
 |   item43   |    |   |    |
 |   item44   |    |   |    |
