@@ -51,10 +51,10 @@
 |   item39   | [명명 패턴보다 애너테이션을 사용해라](https://insight-bgh.tistory.com/434)   | [ITEM 39: 명명 패턴보다 애너테이션을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-13-use-annotation.md)  |[애너테이션](https://mongsil1025.github.io/book/effective-java/item39/)    |
 |   item40   | [@Override 어노테이션을 일관되게 사용해라](https://insight-bgh.tistory.com/432)   | [ITEM 40: @Override 어노테이션을 일관되게 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-consistently-use-override-annotation.md)  |[@Override 어노테이션을 일관되게 사용하라](https://mongsil1025.github.io/book/effective-java/item40/)    |
 |   item41   | [정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://insight-bgh.tistory.com/433)   | [ITEM 41: 정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-use-marker-interfaces-to-define-types.md)  |[마커 인터페이스](https://mongsil1025.github.io/book/effective-java/item41/)    |
-|   item42   |    |[익명 클래스보다는 람다를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-19-prefer-lambdas-to-anonymous-classes.md)   |    |
-|   item43   |    | [람다보다는 메서드 참조를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-prefer-method-references-to-lambdas.md)   |    |
-|   item44   |    | [표준 함수형 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-favor-the-use-of-standard-functional-interfaces.md)  |    |
-|   item45   |    | [스트림은 주의해서 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-use-streams-judiciously.md)  |    |
+|   item42   | [익명 클래스보다는 람다를 사용해라](https://insight-bgh.tistory.com/436)   |[익명 클래스보다는 람다를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-19-prefer-lambdas-to-anonymous-classes.md)   |    |
+|   item43   | [람다보다는 메서드 참조를 사용해라](https://insight-bgh.tistory.com/437)  | [람다보다는 메서드 참조를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-prefer-method-references-to-lambdas.md)   |    |
+|   item44   | [표준 함수형 인터페이스를 사용해라](https://insight-bgh.tistory.com/439)   | [표준 함수형 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-favor-the-use-of-standard-functional-interfaces.md)  |    |
+|   item45   | [스트림은 주의해서 사용해라](https://insight-bgh.tistory.com/440)   | [스트림은 주의해서 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-use-streams-judiciously.md)  |    |
 
 
 
