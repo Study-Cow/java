@@ -47,9 +47,13 @@
 |   item39   |    | [ITEM 39: 명명 패턴보다 애너테이션을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-13-use-annotation.md)  |[애너테이션](https://mongsil1025.github.io/book/effective-java/item39/)    |
 |   item40   |    | [ITEM 40: @Override 어노테이션을 일관되게 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-consistently-use-override-annotation.md)  |[@Override 어노테이션을 일관되게 사용하라](https://mongsil1025.github.io/book/effective-java/item40/)    |
 |   item41   |    | [ITEM 41: 정의하려는 것이 타입이라면 마커 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-14-use-marker-interfaces-to-define-types.md)  |[마커 인터페이스](https://mongsil1025.github.io/book/effective-java/item41/)    |
-|   item42   |    |   |    |
-|   item43   |    |   |    |
-|   item44   |    |   |    |
+|   item42   |    |   |[익명클래스와 람다](https://mongsil1025.github.io/book/effective-java/item42/)    |
+|   item43   |    |   |[람다와 메서드참조](https://mongsil1025.github.io/book/effective-java/item43/)    |
+|   item44   |    |   |[표준 함수형 인터페이스](https://mongsil1025.github.io/book/effective-java/item44/)    |
+|   item45   |    |   |[스트림은 언제 사용할까](https://mongsil1025.github.io/book/effective-java/item45/)    |
+|   item46   |    |   |[스트림에서는 부작용 없는 함수를 사용하라](https://mongsil1025.github.io/book/effective-java/item46/)    |
+|   item47   |    |   |[반환 타입으로는 스트림보다 컬렉션](https://mongsil1025.github.io/book/effective-java/item47/)    |
+|   item48   |    |   |[스트림 병렬화는 주의해서 사용하라](https://mongsil1025.github.io/book/effective-java/item48/)    |
 
 
 - item10, item11을 하면서 [AutoValue](https://github.com/dh00023/TIL/blob/master/Java/%EC%8B%AC%ED%99%94/2020-02-02-autoValue.md)를 사용했습니다. 주석처리 혹은 [https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2](https://mvnrepository.com/artifact/com.google.auto.value/auto-value/1.5.2)에서 라이브러리 추가 부탁드립니다.
