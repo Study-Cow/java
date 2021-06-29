@@ -55,9 +55,9 @@
 |   item43   | [람다보다는 메서드 참조를 사용해라](https://insight-bgh.tistory.com/437)  | [람다보다는 메서드 참조를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-prefer-method-references-to-lambdas.md)   |[람다와 메서드참조](https://mongsil1025.github.io/book/effective-java/item43/)    |
 |   item44   | [표준 함수형 인터페이스를 사용해라](https://insight-bgh.tistory.com/439)   | [표준 함수형 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-favor-the-use-of-standard-functional-interfaces.md)  |[표준 함수형 인터페이스](https://mongsil1025.github.io/book/effective-java/item44/)     |
 |   item45   | [스트림은 주의해서 사용해라](https://insight-bgh.tistory.com/440)   | [스트림은 주의해서 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-20-use-streams-judiciously.md)  |[스트림은 언제 사용할까](https://mongsil1025.github.io/book/effective-java/item45/)     |
-|   item46   | [스트림에서는 부작용 없는 함수를 사용하라](https://insight-bgh.tistory.com/441)   |   |[스트림에서는 부작용 없는 함수를 사용하라](https://mongsil1025.github.io/book/effective-java/item46/)    |
-|   item47   | [반환 타입으로는 스트림보다 컬렉션이 낫다](https://insight-bgh.tistory.com/442)   |   |[반환 타입으로는 스트림보다 컬렉션](https://mongsil1025.github.io/book/effective-java/item47/)    |
-|   item48   | [스트림 병렬화는 주의해서 적용하라](https://insight-bgh.tistory.com/443)   |   |[스트림 병렬화는 주의해서 사용하라](https://mongsil1025.github.io/book/effective-java/item48/)    |
+|   item46   | [스트림에서는 부작용 없는 함수를 사용하라](https://insight-bgh.tistory.com/441)   | [ITEM 46: 스트림에서 부작용 없는 함수를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-27-prefer-side-effect-free-fucntional-interface.md)  |[스트림에서는 부작용 없는 함수를 사용하라](https://mongsil1025.github.io/book/effective-java/item46/)    |
+|   item47   | [반환 타입으로는 스트림보다 컬렉션이 낫다](https://insight-bgh.tistory.com/442)   | [ITEM 47: 반환 타입으로는 스트림보다 컬렉션이 낫다.](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-28-prefer-collection-to-stream-as-retrun-type.md)  |[반환 타입으로는 스트림보다 컬렉션](https://mongsil1025.github.io/book/effective-java/item47/)    |
+|   item48   | [스트림 병렬화는 주의해서 적용하라](https://insight-bgh.tistory.com/443)   |  [ITEM 48: 스트림 병렬화는 주의해서 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-28-use-caution-when-making-streams-pararrel.md) |[스트림 병렬화는 주의해서 사용하라](https://mongsil1025.github.io/book/effective-java/item48/)    |
 
 
 
