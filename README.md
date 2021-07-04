@@ -61,7 +61,7 @@
 |   item49   | [매개변수가 유효한지 검사하라](https://insight-bgh.tistory.com/444)  |   |   |
 |   item50   | [적시에 방어적 복사를 만들라](https://insight-bgh.tistory.com/445)  |   |   |
 |   item51   | [메서드 시그니처를 신중히 설계하라](https://insight-bgh.tistory.com/446)  |   |   |
-|   item52   |   |   |   |
+|   item52   | [다중정의는 신중히 사용하라](https://insight-bgh.tistory.com/447)  |   |   |
 |   item53   |   |   |   |
 |   item54   |   |   |   |
 |   item55   |   |   |   |
