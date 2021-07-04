@@ -58,6 +58,48 @@
 |   item46   | [스트림에서는 부작용 없는 함수를 사용하라](https://insight-bgh.tistory.com/441)   | [ITEM 46: 스트림에서 부작용 없는 함수를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-27-prefer-side-effect-free-fucntional-interface.md)  |[스트림에서는 부작용 없는 함수를 사용하라](https://mongsil1025.github.io/book/effective-java/item46/)    |
 |   item47   | [반환 타입으로는 스트림보다 컬렉션이 낫다](https://insight-bgh.tistory.com/442)   | [ITEM 47: 반환 타입으로는 스트림보다 컬렉션이 낫다.](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-28-prefer-collection-to-stream-as-retrun-type.md)  |[반환 타입으로는 스트림보다 컬렉션](https://mongsil1025.github.io/book/effective-java/item47/)    |
 |   item48   | [스트림 병렬화는 주의해서 적용하라](https://insight-bgh.tistory.com/443)   |  [ITEM 48: 스트림 병렬화는 주의해서 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-28-use-caution-when-making-streams-pararrel.md) |[스트림 병렬화는 주의해서 사용하라](https://mongsil1025.github.io/book/effective-java/item48/)    |
+|   item49   | [매개변수가 유효한지 검사하라](https://insight-bgh.tistory.com/444)  |   |   |
+|   item50   | [적시에 방어적 복사를 만들라](https://insight-bgh.tistory.com/445)  |   |   |
+|   item51   | [메서드 시그니처를 신중히 설계하라](https://insight-bgh.tistory.com/446)  |   |   |
+|   item52   |   |   |   |
+|   item53   |   |   |   |
+|   item54   |   |   |   |
+|   item55   |   |   |   |
+|   item56   |   |   |   |
+|   item57   |   |   |   |
+|   item58   |   |   |   |
+|   item59   |   |   |   |
+|   item60   |   |   |   |
+|   item61   |   |   |   |
+|   item62   |   |   |   |
+|   item63   |   |   |   |
+|   item64   |   |   |   |
+|   item65   |   |   |   |
+|   item66   |   |   |   |
+|   item67   |   |   |   |
+|   item68   |   |   |   |
+|   item69   |   |   |   |
+|   item70   |   |   |   |
+|   item71   |   |   |   |
+|   item72   |   |   |   |
+|   item73   |   |   |   |
+|   item74   |   |   |   |
+|   item75   |   |   |   |
+|   item76   |   |   |   |
+|   item77   |   |   |   |
+|   item78   |   |   |   |
+|   item79   |   |   |   |
+|   item80   |   |   |   |
+|   item81   |   |   |   |
+|   item82   |   |   |   |
+|   item83   |   |   |   |
+|   item84   |   |   |   |
+|   item85   |   |   |   |
+|   item86   |   |   |   |
+|   item87   |   |   |   |
+|   item88   |   |   |   |
+|   item89   |   |   |   |
+|   item90   |   |   |   |
 
 
 
