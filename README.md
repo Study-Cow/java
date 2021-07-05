@@ -58,10 +58,10 @@
 |   item46   | [스트림에서는 부작용 없는 함수를 사용하라](https://insight-bgh.tistory.com/441)   | [ITEM 46: 스트림에서 부작용 없는 함수를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-27-prefer-side-effect-free-fucntional-interface.md)  |[스트림에서는 부작용 없는 함수를 사용하라](https://mongsil1025.github.io/book/effective-java/item46/)    |
 |   item47   | [반환 타입으로는 스트림보다 컬렉션이 낫다](https://insight-bgh.tistory.com/442)   | [ITEM 47: 반환 타입으로는 스트림보다 컬렉션이 낫다.](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-28-prefer-collection-to-stream-as-retrun-type.md)  |[반환 타입으로는 스트림보다 컬렉션](https://mongsil1025.github.io/book/effective-java/item47/)    |
 |   item48   | [스트림 병렬화는 주의해서 적용하라](https://insight-bgh.tistory.com/443)   |  [ITEM 48: 스트림 병렬화는 주의해서 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-06-28-use-caution-when-making-streams-pararrel.md) |[스트림 병렬화는 주의해서 사용하라](https://mongsil1025.github.io/book/effective-java/item48/)    |
-|   item49   | [매개변수가 유효한지 검사하라](https://insight-bgh.tistory.com/444)  |   |   |
-|   item50   | [적시에 방어적 복사를 만들라](https://insight-bgh.tistory.com/445)  |   |   |
-|   item51   | [메서드 시그니처를 신중히 설계하라](https://insight-bgh.tistory.com/446)  |   |   |
-|   item52   | [다중정의는 신중히 사용하라](https://insight-bgh.tistory.com/447)  |   |   |
+|   item49   | [매개변수가 유효한지 검사하라](https://insight-bgh.tistory.com/444)  | [ITEM 49: 매개변수가 유효한지 검사해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-04-check-parameters-for-validity.md)  |   |
+|   item50   | [적시에 방어적 복사를 만들라](https://insight-bgh.tistory.com/445)  | [ITEM 50: 적시에 방어적 복사본을 만들어라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-04-make-defensive-copies-when-needed.md)  |   |
+|   item51   | [메서드 시그니처를 신중히 설계하라](https://insight-bgh.tistory.com/446)  | [ITEM 51: 메서드 시그니처를 신중히 설계해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-05-design-method-signatures-carefully.md) |   |
+|   item52   | [다중정의는 신중히 사용하라](https://insight-bgh.tistory.com/447)  | [ITEM 52: 다중정의는 신중히 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-05-use-overloading-judiciously.md)  |   |
 |   item53   |   |   |   |
 |   item54   |   |   |   |
 |   item55   |   |   |   |
