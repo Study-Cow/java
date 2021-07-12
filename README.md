@@ -62,10 +62,10 @@
 |   item50   | [적시에 방어적 복사를 만들라](https://insight-bgh.tistory.com/445)  | [ITEM 50: 적시에 방어적 복사본을 만들어라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-04-make-defensive-copies-when-needed.md)  | [방어적 복사본을 만들어라](https://mongsil1025.github.io/book/effective-java/item50/)  |
 |   item51   | [메서드 시그니처를 신중히 설계하라](https://insight-bgh.tistory.com/446)  | [ITEM 51: 메서드 시그니처를 신중히 설계해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-05-design-method-signatures-carefully.md) |[메서드 시그니처를 신중히 설계하라](https://mongsil1025.github.io/book/effective-java/item51/)   |
 |   item52   | [다중정의는 신중히 사용하라](https://insight-bgh.tistory.com/447)  | [ITEM 52: 다중정의는 신중히 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-05-use-overloading-judiciously.md)  |[다중정의는 신중히 사용해라](https://mongsil1025.github.io/book/effective-java/item52/)   |
-|   item53   |   |   |[가변인수는 신중히 사용하라](https://mongsil1025.github.io/book/effective-java/item53/)   |
-|   item54   |   |   |[null이 아닌 빈 컬렉션이나 배열을 반환하라](https://mongsil1025.github.io/book/effective-java/item54/)   |
-|   item55   |   |   |[옵셔널 반환은 신중히 하라](https://mongsil1025.github.io/book/effective-java/item55/)   |
-|   item56   |   |   |[공개된 API 요소에는 항상 문서화 주석을 작성하라](https://mongsil1025.github.io/book/effective-java/item56/)    |
+|   item53   | [가변인수는 신중히 사용하라](https://insight-bgh.tistory.com/448)  |   |[가변인수는 신중히 사용하라](https://mongsil1025.github.io/book/effective-java/item53/)   |
+|   item54   | [null이 아닌 빈 컬렉션이나 배열을 반환하라](https://insight-bgh.tistory.com/449)  |   |[null이 아닌 빈 컬렉션이나 배열을 반환하라](https://mongsil1025.github.io/book/effective-java/item54/)   |
+|   item55   | [옵셔널 반환은 신중히 하라](https://insight-bgh.tistory.com/450)  |   |[옵셔널 반환은 신중히 하라](https://mongsil1025.github.io/book/effective-java/item55/)   |
+|   item56   | [공개된 API 요소에는 항상 문서화 주석을 작성하라](https://insight-bgh.tistory.com/451)  |   |[공개된 API 요소에는 항상 문서화 주석을 작성하라](https://mongsil1025.github.io/book/effective-java/item56/)    |
 |   item57   |   |   |   |
 |   item58   |   |   |   |
 |   item59   |   |   |   |
