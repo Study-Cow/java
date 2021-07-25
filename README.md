@@ -66,12 +66,12 @@
 |   item54   | [null이 아닌 빈 컬렉션이나 배열을 반환하라](https://insight-bgh.tistory.com/449)  | [ITEM 54: null이 아닌, 빈 컬렉션이나 배열을 반환해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-12-return-empty-collections-or-arrays-not-null.md)  |[null이 아닌 빈 컬렉션이나 배열을 반환하라](https://mongsil1025.github.io/book/effective-java/item54/)   |
 |   item55   | [옵셔널 반환은 신중히 하라](https://insight-bgh.tistory.com/450)  | [ITEM 55: Optional 반환은 신중하게 해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-12-return-optionals-judiciouly.md)  |[옵셔널 반환은 신중히 하라](https://mongsil1025.github.io/book/effective-java/item55/)   |
 |   item56   | [공개된 API 요소에는 항상 문서화 주석을 작성하라](https://insight-bgh.tistory.com/451)  | [ITEM 56: 공개된 API 요소에는 항상 주석을 작성해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-12-write-doc-comments-for-all-exposed-api-elements.md)  |[공개된 API 요소에는 항상 문서화 주석을 작성하라](https://mongsil1025.github.io/book/effective-java/item56/)    |
-|   item57   |   |   |   |
-|   item58   |   |   |   |
-|   item59   |   |   |   |
-|   item60   |   |   |   |
-|   item61   |   |   |   |
-|   item62   |   |   |   |
+|   item57   |   | [ITEM 57: 지역변수의 범위를 최소화해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-minimize-the-scope-of-local-variables.md)  |   |
+|   item58   |   | [ITEM 58: 전통적인 for 문보다는 for-each문을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-prefer-foreach-loops-to-traditional-for-loops.md)  |   |
+|   item59   |   | [ITEM 59: 라이브러리를 익히고 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-know-and-use-the-libraries.md) |   |
+|   item60   |   | [ITEM 60: 정확한 답이 필요하다면 float와 double은 피해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-avoid-float-and-double-if-exact-answers-are-required.md)  |   |
+|   item61   |   | [ITEM 61: 박싱된 기본 타입보다는 기본 타입을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-prefer-primitivie-types-to-boxed-primitives.md)  |   |
+|   item62   |   | [ITEM 62: 다른 타입이 적절하다면 문자열 사용을 피해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-avoid-strings-where-other-types-are-mmore-appropriate.md)  |   |
 |   item63   |   |   |   |
 |   item64   |   |   |   |
 |   item65   |   |   |   |
