@@ -72,12 +72,12 @@
 |   item60   |   | [ITEM 60: 정확한 답이 필요하다면 float와 double은 피해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-avoid-float-and-double-if-exact-answers-are-required.md)  |[정확한 답이 필요하다면 float와 double은 피해라](https://mongsil1025.github.io/book/effective-java/item60/)   |
 |   item61   |   | [ITEM 61: 박싱된 기본 타입보다는 기본 타입을 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-prefer-primitivie-types-to-boxed-primitives.md)  |[박싱된 기본 타입보다는 기본 타입을 사용해라](https://mongsil1025.github.io/book/effective-java/item61/)   |
 |   item62   |   | [ITEM 62: 다른 타입이 적절하다면 문자열 사용을 피해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-25-avoid-strings-where-other-types-are-mmore-appropriate.md)  |[다른 타입이 적절하다면 문자열 사용을 피해라](https://mongsil1025.github.io/book/effective-java/item62/)   |
-|   item63   |   |   |   |
-|   item64   |   |   |   |
-|   item65   |   |   |   |
-|   item66   |   |   |   |
-|   item67   |   |   |   |
-|   item68   |   |   |   |
+|   item63   |   | [ITEM 63: 문자열 연결은 느리니 주의해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-31-beware-the-performance-of-string-concatenation.md)  |   |
+|   item64   |   | [ITEM 64: 객체는 인터페이스를 사용해 참조해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-31-refer-to-objects-by-their-interfaces.md)  |   |
+|   item65   |   | [ITEM 65: 리플렉션보다는 인터페이스를 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-31-prefer-interfaces-to-reflection.md)  |   |
+|   item66   |   | [ITEM 66: 네이티브 메서드는 신중히 사용해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-31-use-native-methods-judiciously.md)  |   |
+|   item67   |   | [ITEM 67: 최적화는 신중히 해라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-31-optimize-judiciously.md)  |   |
+|   item68   |   | [ITEM 68: 일반적으로 통용되는 명명 규칙을 따라라](https://github.com/dh00023/TIL/blob/master/Java/effective_java/2021-07-31-adhere-to-generally-accepted-naming-conventions.md)  |   |
 |   item69   |   |   |   |
 |   item70   |   |   |   |
 |   item71   |   |   |   |
